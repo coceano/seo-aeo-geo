@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This skill adapts ideas and criteria (not code) from the following MIT-licensed
-projects, credited in README.md:
-
-- claude-seo — Copyright (c) AgriciDaniel — https://github.com/AgriciDaniel/claude-seo
-- claude-seo-ai — Copyright (c) Hainrixz — https://github.com/Hainrixz/claude-seo-ai
-- marketingskills — Copyright (c) Corey Haines — https://github.com/coreyhaines31/marketingskills
